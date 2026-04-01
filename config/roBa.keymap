@@ -97,7 +97,7 @@
 &trans        &kp KP_N0        &trans           &trans           &trans           &trans      &trans   &trans                                       &kp F12
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         SYN {
