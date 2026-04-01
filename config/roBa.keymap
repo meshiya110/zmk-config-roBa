@@ -53,6 +53,11 @@
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
         };
+
+        kana_toggle {
+            bindings = <&kp GRAVE>;
+            key-positions = <13 14>;
+        };
     };
 
     macros {
