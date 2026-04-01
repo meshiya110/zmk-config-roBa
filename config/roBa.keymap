@@ -104,7 +104,7 @@
             bindings = <
 &kp LS(NUMBER_1)            &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)                                                          &trans                 &kp ASTERISK               &kp LEFT_PARENTHESIS  &kp RIGHT_BRACE   &kp PIPE
 &kp LS(NUMBER_6)            &kp LS(N7)        &kp LS(N8)        &kp LS(N9)        &kp LS(DOUBLE_QUOTES)  &kp LS(LESS_THAN)      &kp LS(GREATER_THAN)  &kp LS(DOUBLE_QUOTES)  &kp LS(RIGHT_PARENTHESIS)  &kp UP_ARROW          &kp LEFT_BRACKET  &kp SEMICOLON
-&mt LEFT_SHIFT KP_NUMBER_0  &kp KP_NUMBER_1   &kp KP_NUMBER_2   &kp 0x89          &kp PERIOD             &kp LS(0x87)           &trans                &kp HOME               &kp LEFT                   &kp DOWN              &kp RIGHT         &kp END
+&mt LEFT_SHIFT KP_NUMBER_0  &kp KP_NUMBER_1   &kp KP_NUMBER_2   &kp 0x89          &kp PERIOD             &kp LS(0x87)           &trans                &kp HOME               &kp LEFT                   &kp DOWN              &kp RIGHT         &kp SINGLE_QUOTE
 &trans                      &trans            &trans            &trans            &trans                 &trans                 &trans                &trans                                                                                    &trans
             >;
 
